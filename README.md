@@ -111,8 +111,8 @@ The `variant` prop can be set to one of `green`, `black`, `red`, or `white`:
 
 Property | Description | Type | Default
 --- | --- | --- | ---
-variant | Variant of banner | `green`
-backgroundColor | Background color of banner | `#006A4E`
-foregroundColor | Foreground color of banner | `#FFD666`
-emphasisColor | Color of "murdered" text | `#F42A41`
-link | Redirect link of banner when on click | `https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained`
+`variant` | Variant of banner | `green`
+`backgroundColor` | Background color of banner | `#006A4E`
+`foregroundColor` | Foreground color of banner | `#FFD666`
+`emphasisColor` | Color of "murdered" text | `#F42A41`
+`link` | Redirect link of banner when on click | `https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained`
