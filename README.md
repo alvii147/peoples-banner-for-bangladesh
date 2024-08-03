@@ -1,4 +1,4 @@
-# People's Banner for Bangladesh
+# People's Banner for Bangladesh :bangladesh:
 
 The website contains badgers and banners that can be used in GitHub profiles and READMEs to show support for the anti-discrimination movement led by the students of Bangladesh against the fascist government.
 
