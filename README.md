@@ -91,6 +91,8 @@ export default App;
 
 The `variant` prop can be set to one of `green`, `black`, `red`, or `white`:
 
+## Web View
+
 ![](docs/react-web-screenshot-green.png)
 
 ![](docs/react-web-screenshot-black.png)
@@ -98,6 +100,8 @@ The `variant` prop can be set to one of `green`, `black`, `red`, or `white`:
 ![](docs/react-web-screenshot-red.png)
 
 ![](docs/react-web-screenshot-white.png)
+
+## Mobile View
 
 `variant='green'` | `variant='black'` | `variant='red'` | `variant='white'`
 --- | --- | --- | ---
