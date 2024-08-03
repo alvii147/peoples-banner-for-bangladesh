@@ -1,0 +1,27 @@
+{
+  "name": "react-peoples-banner-for-bangladesh",
+  "version": "1.0.0",
+  "description": "React banner to show support for the Bangladeshi students' anti-discrimination movement.",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Zahin Zaman",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.4"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1"
+  }
+}
