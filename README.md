@@ -6,13 +6,13 @@ The website contains badgers and banners that can be used in GitHub profiles and
 
 # Badge
 
-The following badge can be used on any GitHub profiles or READMEs.
+The following badges can be used on any GitHub profiles or READMEs.
 
 ```md
-[![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/badges/all-eyes-on-bangladesh-badge.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
+[![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/badges/all-eyes-on-bangladesh-badge-red-green.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
 ```
 
-[![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/badges/all-eyes-on-bangladesh-badge.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
+[![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/badges/all-eyes-on-bangladesh-badge-red-green.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
 
 # GitHub Banner
 
