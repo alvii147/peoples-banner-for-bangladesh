@@ -72,7 +72,7 @@ const PeoplesBannerForBangladesh = (props: PeoplesBannerForBangladeshProps): JSX
         justifyContent: 'center',
         alignItems: 'center',
         zIndex: 10101,
-        padding: '0px 10px 0px 10px',
+        padding: '15px 10px 15px 10px',
         backgroundColor: backgroundColor,
     };
 
@@ -90,6 +90,7 @@ const PeoplesBannerForBangladesh = (props: PeoplesBannerForBangladeshProps): JSX
     };
 
     const paragraphStyles: React.CSSProperties = {
+        margin: 'auto',
         color: foregroundColor,
     };
 
