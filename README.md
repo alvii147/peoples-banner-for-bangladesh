@@ -14,6 +14,12 @@ The following badges can be used on any GitHub profiles or READMEs.
 
 [![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/badges/all-eyes-on-bangladesh-badge-red-green.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
 
+```md
+[![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/badges/all-eyes-on-bangladesh-badge-yellow-red.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
+```
+
+[![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/badges/all-eyes-on-bangladesh-badge-yellow-red.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
+
 # GitHub Banner
 
 The following banners can be used on top of GitHub project READMEs in show solidarity with Bangladeshi students.
