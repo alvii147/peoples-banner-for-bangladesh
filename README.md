@@ -1,10 +1,10 @@
 # People's Banner for Bangladesh :bangladesh:
 
-The website contains badgers and banners that can be used in GitHub profiles and READMEs to show support for the anti-discrimination movement led by the students of Bangladesh against the fascist government.
+The project contains badgers and banners that can be used in GitHub profiles and READMEs to show support for the anti-discrimination movement led by the students of Bangladesh against the fascist government.
 
 > If you'd like to request a variation in color, styles, or text for any of these, please don't hestitate to create an issue with details, and I will try my best to accommodate.
 
-# Badge
+## Badge
 
 The following badges can be used on any GitHub profiles or READMEs.
 
@@ -20,7 +20,7 @@ The following badges can be used on any GitHub profiles or READMEs.
 
 [![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/badges/all-eyes-on-bangladesh-badge-yellow-red.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
 
-# GitHub Banner
+## GitHub Banner
 
 The following banners can be used on top of GitHub project READMEs in show solidarity with Bangladeshi students.
 
@@ -48,11 +48,11 @@ The following banners can be used on top of GitHub project READMEs in show solid
 
 [![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/github/banner-white.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
 
-# React Banner
+## React Banner
 
 A React banner component is also available to put at the top of any website. The banner offers configurable options, and also includes a close button that uses local storage to retain the closed state.
 
-## Installation
+### Installation
 
 Install the banner directly from this repository:
 
@@ -60,7 +60,7 @@ Install the banner directly from this repository:
 npm install 'https://gitpkg.vercel.app/alvii147/peoples-banner-for-bangladesh/react/react-peoples-banner-for-bangladesh?main'
 ```
 
-## Usage
+### Usage
 
 Once installed, you can use it directly in your React app:
 
@@ -97,7 +97,7 @@ export default App;
 
 The `variant` prop can be set to one of `green`, `black`, `red`, or `white`:
 
-## Web View
+### Web View
 
 ![](docs/react-web-screenshot-green.png)
 
@@ -107,13 +107,13 @@ The `variant` prop can be set to one of `green`, `black`, `red`, or `white`:
 
 ![](docs/react-web-screenshot-white.png)
 
-## Mobile View
+### Mobile View
 
 `variant='green'` | `variant='black'` | `variant='red'` | `variant='white'`
 --- | --- | --- | ---
 ![](docs/react-mobile-screenshot-green.png) | ![](docs/react-mobile-screenshot-black.png) | ![](docs/react-mobile-screenshot-red.png) | ![](docs/react-mobile-screenshot-white.png)
 
-## Props
+### Props
 
 Property | Description | Type | Default
 --- | --- | --- | ---
